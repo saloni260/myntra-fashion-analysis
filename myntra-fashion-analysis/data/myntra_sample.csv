@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,SubCategory,BrandName,DiscountPrice (in Rs),MRP (in Rs),DiscountPercent,SizeOption,Color,Gender,Individual_category,category_by_Gender
+1,Floral Dress,Dresses,Maxi Dresses,Brand A,999,1999,50,XS,Sky Blue,Female,Dresses,Women
+2,Denim Jacket,Jackets,Denim Jackets,Brand B,1499,2999,50,M,L,Female,Jackets,Women
+3,Casual T-Shirt,Tops,T-Shirts,Brand C,499,999,50,S,Black,Female,Tops,Women
+4,Formal Pants,Pants,Formal Pants,Brand D,1299,2499,48,M,Gray,Female,Pants,Women
+5,Saree,Sarees,Traditional Wear,Brand E,2999,5999,50,Free Size,Red,Female,Sarees,Women
+6,Graphic Tee,Tops,T-Shirts,Brand F,799,1599,50,M,White,Female,Tops,Women
+7,Maxi Skirt,Skirts,Maxi Skirts,Brand G,899,1799,50,S,Green,Female,Skirts,Women
+8,Party Dress,Dresses,Party Dresses,Brand H,1999,3999,50,M,Black,Female,Dresses,Women
+9,Churidar,Suits,Traditional Wear,Brand I,1499,2999,50,M,Beige,Female,Suits,Women
+10,Winter Coat,Coats,Winter Coats,Brand J,3499,6999,50,L,Navy Blue,Female,Coats,Women
